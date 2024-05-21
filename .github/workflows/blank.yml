@@ -36,4 +36,4 @@ jobs:
           echo test, and deploy your project.
       
       - name: Copy file to  drive
-        run: cp test.MD /Users/hjhuntz/Desktop
+        run: cp test.MD /Users/hjhuntz/Desktop/DavidsConference/test.MD
